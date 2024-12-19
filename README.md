@@ -46,8 +46,9 @@ $ python3 notice.py
 
 以下のような表示が出ればOKです．
 
+<img width="838" alt="スクリーンショット 2024-12-19 14 52 44" src="https://github.com/user-attachments/assets/b9b818f6-0275-43e0-ad55-3045791c297d" />
 
-<img width="865" alt="スクリーンショット 2024-12-19 9 14 11" src="https://github.com/user-attachments/assets/85d21b99-2966-4e9e-ae3f-d03793430cc2" />
+
 
 
 また通知されたアラートは以下のようになります．
