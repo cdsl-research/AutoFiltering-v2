@@ -18,10 +18,16 @@ prometheus_api_client
 datetime
 
 
+
 ### 対象ソフトウェア
 
 - Prometheus
 - AlertManager
+
+### 通知デバイス
+Slack
+以下の設定を事前に済ませといてください．
+https://api.slack.com/messaging/webhooks
 
 
 ###　構成要素
@@ -56,4 +62,7 @@ $ python3 notice.py
 
 
 
- 
+
+ ###　最後に
+ このソフトウェアはAlertManagerと組み合わせて使うことで障害発生箇所に絞ったアラート通知ができます．
+ぜひ使ってみてください．
